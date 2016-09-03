@@ -1,0 +1,26 @@
+{
+  "name": "boya",
+  "version": "1.0.0",
+  "description": "Website for Boya company",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xndong1020@github.com/xndong1020/Boya.git"
+  },
+  "keywords": [
+    "jQuery"
+  ],
+  "author": "Nicole Dong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xndong1020/Boya/issues"
+  },
+  "homepage": "https://github.com/xndong1020/Boya#readme"
+}
